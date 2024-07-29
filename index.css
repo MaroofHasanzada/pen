@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 80px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+ul{
+    list-style: none;
+    background-color: rgba(0, 0, 0, 0.617);
+    color: white;
+
+}
+li{
+    display: inline-block;
+    padding: 16px;
+}
+.nav{
+margin: 0;
+}
+.name{
+    width: 300px;
+    height: 30px;
+    margin: 8px;
+    margin-left: 18px;
+    margin-top: 10px;
+}
+.d{
+position: relative;
+left: 18px;
+top: 5px;    
+
+}
+.submit{
+    background-color: rgb(20, 230, 20);
+    color: white;
+    margin-left: 20px;
+  
+}
+.form{
+position: absolute;
+left: 500px;
+top: 230px;
+background-color: rgba(241, 222, 199, 0.929);
+height: 340px;
+width: 350px;
+}
+h2{
+    margin-left: 15px;
+}
